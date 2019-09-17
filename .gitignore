@@ -1,0 +1,11 @@
+/dump.rdb
+/lastupdate.tmp
+/nohup.out
+/com.motion.api
+/conf/app.conf
+/.idea/
+/.vscode/*.json
+/debug
+/.DS_Store
+/logs/
+/com.software.temp
